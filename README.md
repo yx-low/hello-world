@@ -1,2 +1,4 @@
 # hello-world
-A quick brown fox jumps over the lazy dog.
+24th June 2015 - Today I decided to embark into the open-source community.
+
+
